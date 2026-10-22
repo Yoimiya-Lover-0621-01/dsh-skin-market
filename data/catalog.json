@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-22T08:39:19.330Z",
+  "generatedAt": "2026-10-22T15:00:02.546Z",
   "skins": [
     {
       "id": "carlown.majia7-skin",
@@ -20106,6 +20106,90 @@
           {
             "preview": "https://kingofsoysauce.github.io/dsh-skin-market/skin-media/v1/0002594d850c2d22fe645198df870266.preview.webp",
             "full": "https://kingofsoysauce.github.io/dsh-skin-market/skin-media/v1/0002594d850c2d22fe645198df870266.full.webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "yoimiya.lover.0621.01.himeko.starry.night",
+      "name": {
+        "zh": "姬子的星月夜",
+        "en": "Himeko's Starry Night"
+      },
+      "author": "Yoimiya-Lover-0621-01",
+      "description": "姬子的星月夜：星云壁纸 + 莫奈取色 + 液态玻璃的 DSH Web 主题，含启动页、关于栏与插件页皮肤。",
+      "repo": "https://github.com/Yoimiya-Lover-0621-01/himeko-starry-night",
+      "package": "@local/star-wallpaper",
+      "rowId": "star-wallpaper",
+      "category": "theme",
+      "tags": [
+        "appearance"
+      ],
+      "modes": [
+        "light",
+        "dark"
+      ],
+      "install": {
+        "target": "github:Yoimiya-Lover-0621-01/himeko-starry-night#f5b83dd7fa34f21a9d042d2f47ff1e14135792bd",
+        "version": "1.0.1",
+        "commit": "f5b83dd7fa34f21a9d042d2f47ff1e14135792bd"
+      },
+      "compatibility": {
+        "dsh": "unverified",
+        "platform": [
+          "web"
+        ]
+      },
+      "screenshots": [
+        "https://raw.githubusercontent.com/Yoimiya-Lover-0621-01/himeko-starry-night/f5b83dd7fa34f21a9d042d2f47ff1e14135792bd/preview.png",
+        "https://raw.githubusercontent.com/Yoimiya-Lover-0621-01/himeko-starry-night/f5b83dd7fa34f21a9d042d2f47ff1e14135792bd/preview-settings.png",
+        "https://raw.githubusercontent.com/Yoimiya-Lover-0621-01/himeko-starry-night/f5b83dd7fa34f21a9d042d2f47ff1e14135792bd/preview-plugins.png"
+      ],
+      "review": {
+        "compatibility": "unverified",
+        "preview": "verified",
+        "installation": "verified"
+      },
+      "health": {
+        "status": "improvements",
+        "checks": {
+          "readmeScreenshots": "pass",
+          "compatibility": "improve",
+          "installation": "pass",
+          "installCommand": "pass",
+          "topic": "pass"
+        },
+        "suggestions": [
+          "建议在 README 或 package.json 中明确声明支持的 DSH Web 版本范围（例如 0.1.0-rc.6 或兼容区间），方便用户在安装前确认环境。"
+        ]
+      },
+      "license": {
+        "code": "MIT",
+        "commercialUse": true
+      },
+      "featuredRank": 1000,
+      "starsSnapshot": 0,
+      "releaseUpdatedAt": "2026-10-22T15:00:01.347Z",
+      "metadataUpdatedAt": "2026-10-22T15:00:01.347Z",
+      "starsUpdatedAt": "2026-10-22T15:00:01.347Z",
+      "updatedAt": "2026-10-22T15:00:01.347Z",
+      "media": {
+        "list": {
+          "preview": "https://kingofsoysauce.github.io/dsh-skin-market/skin-media/v1/eed9ced0029b769197e30c11cf33a6bd.preview.webp",
+          "full": "https://kingofsoysauce.github.io/dsh-skin-market/skin-media/v1/eed9ced0029b769197e30c11cf33a6bd.full.webp"
+        },
+        "screenshots": [
+          {
+            "preview": "https://kingofsoysauce.github.io/dsh-skin-market/skin-media/v1/eed9ced0029b769197e30c11cf33a6bd.preview.webp",
+            "full": "https://kingofsoysauce.github.io/dsh-skin-market/skin-media/v1/eed9ced0029b769197e30c11cf33a6bd.full.webp"
+          },
+          {
+            "preview": "https://kingofsoysauce.github.io/dsh-skin-market/skin-media/v1/57dc3eee0e4d269e3d7e7431e29491d0.preview.webp",
+            "full": "https://kingofsoysauce.github.io/dsh-skin-market/skin-media/v1/57dc3eee0e4d269e3d7e7431e29491d0.full.webp"
+          },
+          {
+            "preview": "https://kingofsoysauce.github.io/dsh-skin-market/skin-media/v1/7b94092a0e5d0150aebeb0652e4180af.preview.webp",
+            "full": "https://kingofsoysauce.github.io/dsh-skin-market/skin-media/v1/7b94092a0e5d0150aebeb0652e4180af.full.webp"
           }
         ]
       }
